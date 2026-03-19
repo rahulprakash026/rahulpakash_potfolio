@@ -50,7 +50,7 @@ const About = () => {
             className="md:col-span-8 lg:col-span-7 space-y-6 text-lg text-gray-700 dark:text-gray-300"
           >
             <p className="leading-relaxed">
-              Hello! I'm <span className="font-semibold text-primary dark:text-blue-400">Rahul Prakash</span>, a highly motivated and self-driven B.Tech student in Computer Science and Engineering. My journey in tech is fueled by a deep curiosity for how things work and a passion for building impactful solutions.
+              I'm <span className="font-semibold text-primary dark:text-blue-400">Rahul Prakash</span>, a highly motivated and self-driven B.Tech student in Computer Science and Engineering. My journey in tech is fueled by a deep curiosity for how things work and a passion for building impactful solutions.
             </p>
             <p className="leading-relaxed">
               I specialize in bridging the gap between complex backend logic and intuitive user experiences. Whether it's training a machine learning model to uncover insights from data or architecting a responsive web application, I thrive on challenges that demand both analytical thinking and creativity.
