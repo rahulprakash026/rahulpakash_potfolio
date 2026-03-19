@@ -7,7 +7,7 @@ const educationData = [
     id: 1,
     degree: "B.Tech Computer Science and Engineering",
     institution: "Lovely Professional University",
-    score: "CGPA: 7.86",
+    score: "CGPA: 6.86",
     duration: "2023 – 2027",
     icon: <GraduationCap size={24} />
   },
@@ -15,7 +15,7 @@ const educationData = [
     id: 2,
     degree: "Intermediate",
     institution: "S.A.N.S College, Motihari",
-    score: "Score: 71%",
+    score: "Score: 61%",
     duration: "Completed",
     icon: <BookOpen size={24} />
   },
@@ -23,7 +23,7 @@ const educationData = [
     id: 3,
     degree: "Matriculation",
     institution: "Levana Public School, Chakia",
-    score: "Score: 76.6%",
+    score: "Score: 66.6%",
     duration: "Completed",
     icon: <School size={24} />
   }
