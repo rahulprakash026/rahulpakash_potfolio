@@ -41,7 +41,7 @@ const Hero = () => {
                 animate={{ opacity: 1, y: 0 }}
                 transition={{ delay: 0.3, duration: 0.8 }}
               >
-                B.Tech CSE Student | Data Science & Software Development Enthusiast
+               Aspiring Software Engineer | Data Science Enthusiast
               </motion.h2>
               <motion.p
                 className="text-gray-600 dark:text-gray-400 text-lg max-w-2xl mx-auto lg:mx-0"
