@@ -38,7 +38,7 @@ const Achievements = () => {
                 <Code size={32} />
               </div>
               <div>
-                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">100+ Coding Problems Solved</h3>
+                <h3 className="text-xl font-bold text-slate-900 dark:text-white mb-2">250+ Coding Problems Solved</h3>
                 <p className="text-gray-600 dark:text-gray-400 text-sm">
                   Successfully tackled complex algorithmic challenges across competitive programming platforms including <span className="font-semibold text-primary dark:text-blue-400">LeetCode</span> and <span className="font-semibold text-primary dark:text-blue-400">HackerRank</span>.
                 </p>
