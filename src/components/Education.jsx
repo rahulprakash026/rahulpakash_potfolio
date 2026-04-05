@@ -15,7 +15,7 @@ const educationData = [
     id: 2,
     degree: "Intermediate",
     institution: "S.A.N.S College, Motihari",
-    score: "Score: 61%",
+    score: "Score: 71%",
     duration: "Completed",
     icon: <BookOpen size={24} />
   },
@@ -23,7 +23,7 @@ const educationData = [
     id: 3,
     degree: "Matriculation",
     institution: "Levana Public School, Chakia",
-    score: "Score: 66.6%",
+    score: "Score: 76.6%",
     duration: "Completed",
     icon: <School size={24} />
   }
